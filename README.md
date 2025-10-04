@@ -13,12 +13,12 @@ A comprehensive, interactive reverse shell payload generator with an intuitive U
 
 ## Features
 
-- 🖱️ **Mouse & Keyboard Navigation** - Click or use arrow keys to navigate
-- 🎨 **Beautiful UI** - Color-coded, easy-to-read interface
-- 📋 **100+ Payloads** - Covering all major languages and techniques
-- 🎯 **Listener Commands** - Every payload includes the corresponding listener
-- 🔧 **Categories** - Organized by language/tool for quick access
-- ⚡ **Zero Dependencies*** - Works out of the box (*figlet optional)
+-  **Mouse & Keyboard Navigation** - Click or use arrow keys to navigate
+-  **Beautiful UI** - Color-coded, easy-to-read interface
+-  **100+ Payloads** - Covering all major languages and techniques
+-  **Listener Commands** - Every payload includes the corresponding listener
+-  **Categories** - Organized by language/tool for quick access
+-  **Zero Dependencies*** - Works out of the box (*figlet optional)
 
 ##  Installation
 
