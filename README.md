@@ -4,6 +4,7 @@
   <img src="https://img.shields.io/badge/bash-5.0+-green.svg" alt="Bash Version">
   <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="License">
   <img src="https://img.shields.io/badge/platform-linux%20%7C%20macos-lightgrey.svg" alt="Platform">
+  <img src="https://i.imgur.com/EdSt6H7.png" alt="PwnSH">
 </p>
 
 A comprehensive, interactive reverse shell payload generator with an intuitive UI and mouse support. Perfect for penetration testing, CTFs, and security research.
